@@ -1,0 +1,49 @@
+sku_name,brand,manufacturer,flavor,strength_mg,pouches_per_can,format,status,fda_status_raw,tobacco_free,synthetic_nicotine,verified_source
+FRE Mint 3mg,FRE,Turning Point Brands,Mint,3,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,FRE not in FDA authorized list as of May 2026
+FRE Mint 9mg,FRE,Turning Point Brands,Mint,9,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,FRE not in FDA authorized list as of May 2026
+FRE Watermelon 12mg,FRE,Turning Point Brands,Watermelon,12,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,FRE not in FDA authorized list as of May 2026
+FRE Wintergreen 15mg,FRE,Turning Point Brands,Wintergreen,15,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,FRE not in FDA authorized list as of May 2026
+Lucy Berry Citrus 4mg,Lucy,Lucy Goods Inc.,Berry Citrus,4,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized; under FDA review as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+Lucy Berry Citrus 8mg,Lucy,Lucy Goods Inc.,Berry Citrus,8,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+Lucy Cinnamon 8mg,Lucy,Lucy Goods Inc.,Cinnamon,8,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+Lucy Cool Mint 8mg,Lucy,Lucy Goods Inc.,Cool Mint,8,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+Lucy Mango 4mg,Lucy,Lucy Goods Inc.,Mango,4,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+Lucy Pomegranate 12mg,Lucy,Lucy Goods Inc.,Pomegranate,12,15,Slim,pending,PMTA Submitted May 2022 (Not Authorized as of May 2026),true,true,Lucy Goods PMTA filing May 2022; not yet authorized
+on! PLUS Mint 3mg,on! PLUS,Helix Innovations (Altria),Mint,3,20,Mini,authorized,PMTA Submitted (Not Authorized; only 6mg/9mg variants are FDA authorized as of May 2026),true,false,FDA only authorized 6mg/9mg variants Dec 2025; 3mg pending
+on! PLUS Mint 6mg,on! PLUS,Helix Innovations (Altria),Mint,6,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+on! PLUS Mint 9mg,on! PLUS,Helix Innovations (Altria),Mint,9,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+on! PLUS Tobacco 6mg,on! PLUS,Helix Innovations (Altria),Tobacco,6,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+on! PLUS Tobacco 9mg,on! PLUS,Helix Innovations (Altria),Tobacco,9,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+on! PLUS Wintergreen 6mg,on! PLUS,Helix Innovations (Altria),Wintergreen,6,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+on! PLUS Wintergreen 9mg,on! PLUS,Helix Innovations (Altria),Wintergreen,9,20,Mini,authorized,"FDA Authorized (Dec 2025, PMTA Pilot)",true,false,"FDA Marketing Granted Order Dec 19, 2025"
+Rogue Honey Lemon 3mg,Rogue,Swisher International,Honey Lemon,3,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+Rogue Honey Lemon 6mg,Rogue,Swisher International,Honey Lemon,6,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+Rogue Mango 6mg,Rogue,Swisher International,Mango,6,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+Rogue Peppermint 6mg,Rogue,Swisher International,Peppermint,6,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+Rogue Wintergreen 3mg,Rogue,Swisher International,Wintergreen,3,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+Rogue Wintergreen 6mg,Rogue,Swisher International,Wintergreen,6,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,true,Rogue not in FDA authorized list as of May 2026
+VELO Bahia Breeze 4mg,VELO,R.J. Reynolds Vapor / British American Tobacco (BAT),Bahia Breeze,4,20,Slim,pending,PMTA Submitted (Not Authorized; under FDA review as of May 2026),true,false,VELO US not in FDA authorized list as of May 2026
+VELO Citrus 4mg,VELO,R.J. Reynolds Vapor / British American Tobacco (BAT),Citrus,4,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,false,VELO US not in FDA authorized list as of May 2026
+VELO Dryft Spearmint 7mg,VELO,R.J. Reynolds Vapor / British American Tobacco (BAT),Dryft Spearmint,7,20,Slim,pending,PMTA Submitted (Not Authorized; under FDA review as of May 2026),true,false,VELO US not in FDA authorized list as of May 2026
+VELO Ice Cool 4mg,VELO,R.J. Reynolds Vapor / British American Tobacco (BAT),Ice Cool,4,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,false,VELO US not in FDA authorized list as of May 2026
+VELO Ice Cool 7mg,VELO,R.J. Reynolds Vapor / British American Tobacco (BAT),Ice Cool,7,20,Slim,pending,PMTA Submitted (Not Authorized as of May 2026),true,false,VELO US not in FDA authorized list as of May 2026
+ZYN Chill 3mg,ZYN,Swedish Match (Philip Morris International),Chill,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Chill 6mg,ZYN,Swedish Match (Philip Morris International),Chill,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Cinnamon 3mg,ZYN,Swedish Match (Philip Morris International),Cinnamon,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Cinnamon 6mg,ZYN,Swedish Match (Philip Morris International),Cinnamon,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Citrus 3mg,ZYN,Swedish Match (Philip Morris International),Citrus,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Citrus 6mg,ZYN,Swedish Match (Philip Morris International),Citrus,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Coffee 3mg,ZYN,Swedish Match (Philip Morris International),Coffee,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Coffee 6mg,ZYN,Swedish Match (Philip Morris International),Coffee,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Cool Mint 3mg,ZYN,Swedish Match (Philip Morris International),Cool Mint,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Cool Mint 6mg,ZYN,Swedish Match (Philip Morris International),Cool Mint,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Menthol 3mg,ZYN,Swedish Match (Philip Morris International),Menthol,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Menthol 6mg,ZYN,Swedish Match (Philip Morris International),Menthol,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Peppermint 3mg,ZYN,Swedish Match (Philip Morris International),Peppermint,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Peppermint 6mg,ZYN,Swedish Match (Philip Morris International),Peppermint,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Smooth 3mg,ZYN,Swedish Match (Philip Morris International),Smooth,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Smooth 6mg,ZYN,Swedish Match (Philip Morris International),Smooth,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Spearmint 3mg,ZYN,Swedish Match (Philip Morris International),Spearmint,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Spearmint 6mg,ZYN,Swedish Match (Philip Morris International),Spearmint,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Wintergreen 3mg,ZYN,Swedish Match (Philip Morris International),Wintergreen,3,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
+ZYN Wintergreen 6mg,ZYN,Swedish Match (Philip Morris International),Wintergreen,6,15,Mini (dry),authorized,"FDA Authorized (Jan 2025, PMTA)",true,false,"FDA Press Release Jan 16, 2025"
