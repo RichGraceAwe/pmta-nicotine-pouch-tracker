@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-29",
+  "updated": "2026-09-15",
   "source": "cleannicotinepouch.com Brand Facts",
-  "count": 48,
+  "count": 63,
   "skus": [
     {
       "sku_name": "FRE Mint 3mg",
@@ -71,7 +71,7 @@
       "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized; under FDA review as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/breakers"
     },
     {
       "sku_name": "Lucy Berry Citrus 8mg",
@@ -85,7 +85,7 @@
       "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/breakers"
     },
     {
       "sku_name": "Lucy Cinnamon 8mg",
@@ -99,21 +99,21 @@
       "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/pouches"
     },
     {
-      "sku_name": "Lucy Cool Mint 8mg",
+      "sku_name": "Lucy Mango 12mg",
       "brand": "Lucy",
       "manufacturer": "Lucy Goods Inc.",
-      "flavor": "Cool Mint",
-      "strength_mg": 8,
+      "flavor": "Mango",
+      "strength_mg": 12,
       "pouches_per_can": 15,
       "format": "Slim",
       "status": "pending",
-      "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of May 2026)",
+      "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of August 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/pouches"
     },
     {
       "sku_name": "Lucy Mango 4mg",
@@ -127,35 +127,77 @@
       "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/pouches"
     },
     {
-      "sku_name": "Lucy Pomegranate 12mg",
+      "sku_name": "Lucy Mint 8mg",
       "brand": "Lucy",
       "manufacturer": "Lucy Goods Inc.",
-      "flavor": "Pomegranate",
-      "strength_mg": 12,
+      "flavor": "Mint",
+      "strength_mg": 8,
       "pouches_per_can": 15,
       "format": "Slim",
       "status": "pending",
       "fda_status_raw": "PMTA Submitted May 2022 (Not Authorized as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": true,
-      "verified_source": "Lucy Goods PMTA filing May 2022; not yet authorized"
+      "verified_source": "https://lucy.co/products/pouches"
     },
     {
-      "sku_name": "on! PLUS Mint 3mg",
+      "sku_name": "on! Autumn Spice 2mg",
       "brand": "on! PLUS",
-      "manufacturer": "Helix Innovations (Altria)",
-      "flavor": "Mint",
-      "strength_mg": 3,
-      "pouches_per_can": 20,
-      "format": "Mini",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Autumn Spice",
+      "strength_mg": 2,
+      "pouches_per_can": "",
+      "format": "",
       "status": "authorized",
-      "fda_status_raw": "PMTA Submitted (Not Authorized; only 6mg/9mg variants are FDA authorized as of May 2026)",
+      "fda_status_raw": "FDA Authorized (PMTA)",
       "tobacco_free": true,
       "synthetic_nicotine": false,
-      "verified_source": "FDA only authorized 6mg/9mg variants Dec 2025; 3mg pending"
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
+    },
+    {
+      "sku_name": "on! Autumn Spice 4mg",
+      "brand": "on! PLUS",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Autumn Spice",
+      "strength_mg": 4,
+      "pouches_per_can": "",
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
+    },
+    {
+      "sku_name": "on! Cappuccino 2mg",
+      "brand": "on! PLUS",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Cappuccino",
+      "strength_mg": 2,
+      "pouches_per_can": "",
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
+    },
+    {
+      "sku_name": "on! Cappuccino 4mg",
+      "brand": "on! PLUS",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Cappuccino",
+      "strength_mg": 4,
+      "pouches_per_can": "",
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
     },
     {
       "sku_name": "on! PLUS Mint 6mg",
@@ -242,9 +284,65 @@
       "verified_source": "FDA Marketing Granted Order Dec 19, 2025"
     },
     {
+      "sku_name": "on! Rich Berry 2mg",
+      "brand": "on! PLUS",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Rich Berry",
+      "strength_mg": 2,
+      "pouches_per_can": "",
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
+    },
+    {
+      "sku_name": "on! Rich Berry 4mg",
+      "brand": "on! PLUS",
+      "manufacturer": "Helix Innovations LLC (Altria)",
+      "flavor": "Rich Berry",
+      "strength_mg": 4,
+      "pouches_per_can": "",
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (Helix Innovations LLC, on! nicotine pouches 2 mg & 4 mg). Tobacco-leaf-free per onnicotine.com. Pouches per can and format left blank: FDA does not state them, on!'s own site did not load, and only one retailer source was found. Verified 2026-09-04."
+    },
+    {
+      "sku_name": "Rogue Apple 3mg",
+      "brand": "Rogue",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
+      "flavor": "Apple",
+      "strength_mg": 3,
+      "pouches_per_can": 20,
+      "format": "Slim",
+      "status": "pending",
+      "fda_status_raw": "PMTA Submitted (Not Authorized as of August 2026)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-apple"
+    },
+    {
+      "sku_name": "Rogue Apple 6mg",
+      "brand": "Rogue",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
+      "flavor": "Apple",
+      "strength_mg": 6,
+      "pouches_per_can": 20,
+      "format": "Slim",
+      "status": "pending",
+      "fda_status_raw": "PMTA Submitted (Not Authorized as of August 2026)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-apple"
+    },
+    {
       "sku_name": "Rogue Honey Lemon 3mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Honey Lemon",
       "strength_mg": 3,
       "pouches_per_can": 20,
@@ -252,13 +350,13 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-honey-lemon"
     },
     {
       "sku_name": "Rogue Honey Lemon 6mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Honey Lemon",
       "strength_mg": 6,
       "pouches_per_can": 20,
@@ -266,13 +364,13 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-honey-lemon"
     },
     {
       "sku_name": "Rogue Mango 6mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Mango",
       "strength_mg": 6,
       "pouches_per_can": 20,
@@ -280,13 +378,13 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-mango"
     },
     {
       "sku_name": "Rogue Peppermint 6mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Peppermint",
       "strength_mg": 6,
       "pouches_per_can": 20,
@@ -294,13 +392,13 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-peppermint"
     },
     {
       "sku_name": "Rogue Wintergreen 3mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Wintergreen",
       "strength_mg": 3,
       "pouches_per_can": 20,
@@ -308,13 +406,13 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
+      "synthetic_nicotine": false,
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-wintergreen"
     },
     {
       "sku_name": "Rogue Wintergreen 6mg",
       "brand": "Rogue",
-      "manufacturer": "Swisher International",
+      "manufacturer": "Rogue Holdings, LLC (Swisher International)",
       "flavor": "Wintergreen",
       "strength_mg": 6,
       "pouches_per_can": 20,
@@ -322,22 +420,8 @@
       "status": "pending",
       "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
       "tobacco_free": true,
-      "synthetic_nicotine": true,
-      "verified_source": "Rogue not in FDA authorized list as of May 2026"
-    },
-    {
-      "sku_name": "VELO Bahia Breeze 4mg",
-      "brand": "VELO",
-      "manufacturer": "R.J. Reynolds Vapor / British American Tobacco (BAT)",
-      "flavor": "Bahia Breeze",
-      "strength_mg": 4,
-      "pouches_per_can": 20,
-      "format": "Slim",
-      "status": "pending",
-      "fda_status_raw": "PMTA Submitted (Not Authorized; under FDA review as of May 2026)",
-      "tobacco_free": true,
       "synthetic_nicotine": false,
-      "verified_source": "VELO US not in FDA authorized list as of May 2026"
+      "verified_source": "https://www.roguenicotine.com/products/pouches/nicotine-pouches-5-pack-wintergreen"
     },
     {
       "sku_name": "VELO Citrus 4mg",
@@ -354,10 +438,10 @@
       "verified_source": "VELO US not in FDA authorized list as of May 2026"
     },
     {
-      "sku_name": "VELO Dryft Spearmint 7mg",
+      "sku_name": "VELO Spearmint 7mg",
       "brand": "VELO",
       "manufacturer": "R.J. Reynolds Vapor / British American Tobacco (BAT)",
-      "flavor": "Dryft Spearmint",
+      "flavor": "Spearmint",
       "strength_mg": 7,
       "pouches_per_can": 20,
       "format": "Slim",
@@ -365,35 +449,7 @@
       "fda_status_raw": "PMTA Submitted (Not Authorized; under FDA review as of May 2026)",
       "tobacco_free": true,
       "synthetic_nicotine": false,
-      "verified_source": "VELO US not in FDA authorized list as of May 2026"
-    },
-    {
-      "sku_name": "VELO Ice Cool 4mg",
-      "brand": "VELO",
-      "manufacturer": "R.J. Reynolds Vapor / British American Tobacco (BAT)",
-      "flavor": "Ice Cool",
-      "strength_mg": 4,
-      "pouches_per_can": 20,
-      "format": "Slim",
-      "status": "pending",
-      "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
-      "tobacco_free": true,
-      "synthetic_nicotine": false,
-      "verified_source": "VELO US not in FDA authorized list as of May 2026"
-    },
-    {
-      "sku_name": "VELO Ice Cool 7mg",
-      "brand": "VELO",
-      "manufacturer": "R.J. Reynolds Vapor / British American Tobacco (BAT)",
-      "flavor": "Ice Cool",
-      "strength_mg": 7,
-      "pouches_per_can": 20,
-      "format": "Slim",
-      "status": "pending",
-      "fda_status_raw": "PMTA Submitted (Not Authorized as of May 2026)",
-      "tobacco_free": true,
-      "synthetic_nicotine": false,
-      "verified_source": "VELO US not in FDA authorized list as of May 2026"
+      "verified_source": "velo.com/us"
     },
     {
       "sku_name": "ZYN Chill 3mg",
@@ -646,6 +702,160 @@
       "tobacco_free": true,
       "synthetic_nicotine": false,
       "verified_source": "FDA Press Release Jan 16, 2025"
+    },
+    {
+      "sku_name": "ZYN Ultra Chill 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Chill",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Chill 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Citrus 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Citrus",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Citrus 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Cool Mint 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Cool Mint",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Cool Mint 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Deep Freeze 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Deep Freeze",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Deep Freeze 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Menthol 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Menthol",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Menthol 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Peppermint 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Peppermint",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Peppermint 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Smooth 11mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Smooth",
+      "strength_mg": 11,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Smooth 11 mg' — the only 11 mg Ultra product on the authorized list). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Smooth 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Smooth",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Smooth 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Spearmint 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Spearmint",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Spearmint 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Wintergreen 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Wintergreen",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Wintergreen 9 mg'). Specs from "
+    },
+    {
+      "sku_name": "ZYN Ultra Wintergreen Chill 9mg",
+      "brand": "ZYN",
+      "manufacturer": "Swedish Match (Philip Morris International)",
+      "flavor": "Wintergreen Chill",
+      "strength_mg": 9,
+      "pouches_per_can": 20,
+      "format": "",
+      "status": "authorized",
+      "fda_status_raw": "FDA Authorized (Aug 2026, PMTA)",
+      "tobacco_free": true,
+      "synthetic_nicotine": false,
+      "verified_source": "FDA authorized nicotine pouch list, current as of 2026-08-21 (verbatim entry: 'ZYN ULTRA Wintergreen Chill 9 mg'). Specs from "
     },
     {
       "sku_name": "ZYN Wintergreen 3mg",

@@ -2,8 +2,8 @@
 
 > Open dataset tracking FDA PMTA (Premarket Tobacco Product Application) submission and marketing-authorization status for every major US nicotine pouch SKU.
 
-**Last updated:** <!--LAST_UPDATED-->2026-05-29<!--/LAST_UPDATED-->
-**SKUs tracked:** <!--SKU_COUNT-->48<!--/SKU_COUNT-->
+**Last updated:** <!--LAST_UPDATED-->2026-09-15<!--/LAST_UPDATED-->
+**SKUs tracked:** <!--SKU_COUNT-->63<!--/SKU_COUNT-->
 **Live web view:** [cleannicotinepouch.com/fda-pmta-tracker](https://cleannicotinepouch.com/fda-pmta-tracker)
 
 ---
