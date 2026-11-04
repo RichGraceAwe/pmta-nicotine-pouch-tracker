@@ -2,8 +2,8 @@
 
 > Open dataset tracking FDA PMTA (Premarket Tobacco Product Application) submission and marketing-authorization status for every major US nicotine pouch SKU.
 
-**Last updated:** <!--LAST_UPDATED-->2026-09-30<!--/LAST_UPDATED-->
-**SKUs tracked:** <!--SKU_COUNT-->71<!--/SKU_COUNT-->
+**Last updated:** <!--LAST_UPDATED-->2026-11-04<!--/LAST_UPDATED-->
+**SKUs tracked:** <!--SKU_COUNT-->81<!--/SKU_COUNT-->
 **Live web view:** [cleannicotinepouch.com/fda-pmta-tracker](https://cleannicotinepouch.com/fda-pmta-tracker)
 
 ---
@@ -50,9 +50,27 @@ Full status-classification logic lives in [`scripts/export-pmta-tracker.mjs`](ht
 data/
 ├── sku-pmta-status.csv     # primary export, comma-separated
 ├── sku-pmta-status.json    # same data, JSON, with metadata wrapper
+└── price-index/
+    ├── us-pouch-price-index.csv          # monthly US price index, one row per month
+    └── us-pouch-price-index-groups.csv   # same months, broken down by brand and by store
 ```
 
 The JSON wrapper includes top-level `updated`, `source`, and `count` fields plus a `skus` array of objects.
+
+## US nicotine pouch price index
+
+A monthly snapshot of single-can shelf prices at the US online stores on our [price comparison](https://cleannicotinepouch.com/prices), published on the web at [cleannicotinepouch.com/us-nicotine-pouch-price-index](https://cleannicotinepouch.com/us-nicotine-pouch-price-index). The method follows the DarePouch EU Pouch Index so the two can be compared:
+
+| Field | Description |
+|---|---|
+| `month` / `snapshot_date` | Month of the snapshot and the day prices were read |
+| `skus_priced` | Products with at least one in-stock single-can price |
+| `offers` | In-stock single-can offers (one product at one store counts once) |
+| `median_price_per_can_usd` | Median of those offers, US dollars, before shipping, sales tax and multi-can discounts |
+| `median_price_per_mg_usd` | Median of (single-can price ÷ nicotine mg per pouch) |
+| `share_under_6mg_pct` / `share_6_to_12mg_pct` / `share_over_12mg_pct` | Strength mix of the priced products |
+
+The groups file adds `group_type` (`brand` or `store`) and `group`. It covers the products we track at online stores only, not gas stations, convenience stores or tobacco shops. Built by [`scripts/build-price-index.mjs`](https://github.com/RichGraceAwe/cleannicotinepouch/blob/main/scripts/build-price-index.mjs).
 
 ## How to use
 

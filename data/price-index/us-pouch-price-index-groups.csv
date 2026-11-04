@@ -1,0 +1,14 @@
+month,group_type,group,skus_priced,offers,median_price_per_can_usd,median_price_per_mg_usd
+2026-11,brand,FRE,4,16,5.14,0.513
+2026-11,brand,Lucy,6,9,4.99,0.661
+2026-11,brand,Rogue,8,28,4.99,0.840
+2026-11,brand,ZYN,20,87,5.49,0.965
+2026-11,brand,Zar,8,8,4.90,0.817
+2026-11,brand,on! PLUS,6,24,4.99,0.721
+2026-11,store,FRE,4,4,5.29,0.514
+2026-11,store,GotPouches,33,33,5.29,0.882
+2026-11,store,Nicokick,42,42,4.49,0.748
+2026-11,store,PouchHaven,29,29,5.50,0.917
+2026-11,store,PouchPoint,27,27,5.49,0.915
+2026-11,store,Prilla,29,29,5.09,0.848
+2026-11,store,ZAR,8,8,4.90,0.817

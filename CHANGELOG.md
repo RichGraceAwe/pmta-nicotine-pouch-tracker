@@ -5,6 +5,13 @@ All notable updates to the PMTA nicotine pouch dataset are recorded here.
 The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Dates are ISO-8601 (YYYY-MM-DD).
 
+## 2026-11-04
+
+- 81 SKUs (was 71). Status breakdown: 51 authorized, 22 pending, 8 unknown, per FDA's authorized-products list current as of 2026-10-30.
+- Added: 8 VELO Mini Pouch products at 4mg (Modoral Brands), authorized 2026-10-30. FDA lists 24 entries for them, one per package configuration; each flavor and strength is one row here. VELO Slim-line SKUs (e.g. Citrus 4mg, Spearmint 7mg) remain not authorized.
+- Added: Rogue Cinnamon 3mg and 6mg (not authorized).
+- New: `data/price-index/`, a monthly US nicotine pouch price index (first snapshot November 2026). See the README section.
+
 ## 2026-09-15
 
 - 63 SKUs (was 48). Status breakdown: 43 authorized, 20 pending, per FDA's authorized-products list current through 2026-08-21.
